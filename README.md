@@ -36,3 +36,4 @@ WanderLog is a full-stack web application built using the MERN stack (MongoDB, E
 - **Authentication**: JSON Web Tokens (JWT)
 
 ---
+## Images of Project
